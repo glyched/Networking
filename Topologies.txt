@@ -1,0 +1,15 @@
+There are 3 main topologies followed in networking:1.Ring
+                                                   2.Star
+                                                   3.Bus
+***Ring***: In this topology, all the computers in a network are connected with eachother, and when passing information to eachother, the info goes through the computers in-between
+and gets delivered to the computer the data was originially sent to, this causes a number of problems such as the info passes through each computer, or the fact that if
+even one computer is down, then the entire network slows down.This topology is rarely seen these days
+
+***Star***: Star topology is the most used as it connects all the computers to a central switch, this allows one computer to send information to another on the network
+and the switch would take the packets and specifically send it to the computer which is supposed to recv the packet. This is most used as this allows you to continue using
+the network even if many computers are down and the only requirement is the network switch.
+
+***Bus***: This topology consists of a central line, to which all computers are connected to, this makes it so, if the central line malfunctions the entire network
+will be taken down, so this too is not a viable topology in most cases
+
+                                                 
